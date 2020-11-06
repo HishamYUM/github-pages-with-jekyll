@@ -1,4 +1,4 @@
-title: my-blog
-date: 06-01-2020
+title: "My-blog"
+date: 2020-11-06
 
 Hello There..!!!
