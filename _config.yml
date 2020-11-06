@@ -1,5 +1,6 @@
-title: My Personal Blog 
+title: "My Personal Blog"
 author: HishamYUM
+date: 2020-11-06
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   THIS is my official blog for writing my new topics about programming languages...
