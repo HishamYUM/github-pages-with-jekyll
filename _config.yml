@@ -1,3 +1,4 @@
+---
 title: "My Personal Blog"
 author: HishamYUM
 date: 2020-11-06
@@ -12,3 +13,4 @@ github_username:  hisham06  # DO NOT include the @ character, or else the build 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
